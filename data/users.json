@@ -1,0 +1,14 @@
+[
+    {
+        "name": "netflix",
+        "email": "netflix@melhor.com.br",
+        "password": "netflix"
+        
+    }
+    ,
+    {
+        "name": "Maria",
+        "email": "maria@netflix.com.br",
+        "password": "maria"  
+    }
+]
